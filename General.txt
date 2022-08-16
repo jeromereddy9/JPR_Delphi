@@ -1,0 +1,9 @@
+General:
+========
+
+> If you do not have an internet connection , you may 
+  experience minor problems.
+> These could include but not limited to , not recieving 
+  Learner information if you have just submitted an application
+  or afew features not being available.
+> If you experience any of these problems establish an internet connection and then contact our support team.

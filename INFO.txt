@@ -1,0 +1,25 @@
+Data Processing:
+
+ >if you have an sql that has a calculation then you can give the formular
+ >Only list 4 processes and list and explain the other 4 processes
+ >when explaining the processes use sudo code 
+ >if you have a calculation involving anything monetary then just state that you are calculating whatever monetary value and state your formulae
+  
+ >sudo code Eg:
+ >>assign the file tfile then loop through the file x amount of times 
+
+ >when giving formulas use regular math formulae
+
+ >use simple processes like reading from a textfile and editing records in a database.
+
+Data Output:
+
+>only for columns (Has to be a table structure)
+>pick 2 screens for input and output screens with alot of input values and output values
+>State the name of the screen
+>>the output
+>>the format (if there is no specific format then use a - to indicate)
+>>which component it is being displayed in
+>>Data type
+
+

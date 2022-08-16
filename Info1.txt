@@ -1,0 +1,12 @@
+NewsWire:
+=========
+
+> Welcome to the new school registration system , this is where
+  students can register or view their current profiles.
+
+> The school has also begun development on a website which is still
+  currently in it's early stages of development.
+
+> We are about to celebrate our 18th birthday soon. This is a major milestone and a start of a new chapter for the school.
+
+> More updates will be posted here soon.     
